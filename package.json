@@ -8,7 +8,9 @@
     "watch": "npm run clear && eleventy --watch",
     "start": "npm run clear && eleventy --serve",
     "debug": "DEBUG=* eleventy",
-    "bench": "DEBUG=Eleventy:Benchmark* eleventy"
+    "bench": "DEBUG=Eleventy:Benchmark* eleventy",
+    "lint": "eslint *.js",
+    "prettier": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -30,7 +32,11 @@
     "@11ty/eleventy-plugin-rss": "1.1.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "4.0.0",
     "@aloskutov/eleventy-plugin-external-links": "1.4.0",
+    "@types/eslint": "8.4.2",
     "del-cli": "4.0.1",
+    "eslint": "8.16.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.0.0",
     "html-minifier": "4.0.0",
     "luxon": "2.4.0",
     "markdown-it": "13.0.1",
