@@ -1,30 +1,32 @@
 const fs = require('fs');
 
-const { DateTime } = require('luxon');
+const pluginRss = require('@11ty/eleventy-plugin-rss');
+const pluginNavigation = require('@11ty/eleventy-navigation');
+const externalLinks = require('@aloskutov/eleventy-plugin-external-links');
+
 const markdownIt = require('markdown-it');
 const markdownItAnchor = require('markdown-it-anchor');
-
-const pluginRss = require('@11ty/eleventy-plugin-rss');
-const pluginSyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
-const pluginNavigation = require('@11ty/eleventy-navigation');
+const htmlmin = require('html-minifier');
 
 module.exports = function (eleventyConfig) {
-  // Copy the `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy('img');
-  eleventyConfig.addPassthroughCopy('css');
-
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
 
+  eleventyConfig.addPlugin(externalLinks);
+
+  // Alias `layout: post` to `layout: layouts/post.njk`
+  eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
+
   eleventyConfig.addFilter('readableDate', dateObj => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('dd LLL yyyy');
+    return new Date(dateObj).toLocaleString('ru', { dateStyle: 'medium' });
   });
 
-  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', dateObj => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
+    const _date = new Date(dateObj);
+    const month = new Date().getMonth() + 1;
+
+    return `${_date.getFullYear()}-${month < 10 ? `0${month}` : month}-${_date.getDate()}`;
   });
 
   // Get the first `n` elements of a collection.
@@ -39,26 +41,47 @@ module.exports = function (eleventyConfig) {
     return array.slice(0, n);
   });
 
-  // Return the smallest number argument
-  eleventyConfig.addFilter('min', (...numbers) => {
-    return Math.min.apply(null, numbers);
-  });
-
   function filterTagList(tags) {
     return (tags || []).filter(tag => ['all', 'nav', 'post', 'posts'].indexOf(tag) === -1);
   }
 
   eleventyConfig.addFilter('filterTagList', filterTagList);
 
-  // Create an array of all tags
-  eleventyConfig.addCollection('tagList', function (collection) {
-    let tagSet = new Set();
-    collection.getAll().forEach(item => {
-      (item.data.tags || []).forEach(tag => tagSet.add(tag));
-    });
-
-    return filterTagList([...tagSet]);
+  // Return the smallest number argument
+  eleventyConfig.addFilter('min', (...numbers) => {
+    return Math.min.apply(null, numbers);
   });
+
+  eleventyConfig.addFilter('addTimestamp', value => {
+    return value + '?ts=' + new Date().getTime();
+  });
+
+  eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
+    if (outputPath && outputPath.endsWith('.html')) {
+      return htmlmin.minify(content, {
+        removeComments: true,
+        collapseWhitespace: true,
+      });
+    }
+    return content;
+  });
+
+  eleventyConfig.addFilter('declOfNum', ({ number, titles }) => {
+    const NumberAbs = Math.abs(number);
+    const Cases = [2, 0, 1, 1, 1, 2];
+    return `${NumberAbs} ${
+      titles[
+        NumberAbs % 100 > 4 && NumberAbs % 100 < 20
+          ? 2
+          : Cases[NumberAbs % 10 < 5 ? NumberAbs % 10 : 5]
+      ]
+    }`;
+  });
+
+  // Copy to the output
+  eleventyConfig.addPassthroughCopy('src/styles');
+  eleventyConfig.addPassthroughCopy('src/scripts');
+  eleventyConfig.addPassthroughCopy('src/**/*.(html|gif|jpg|png|webp|ico|svg|mp4|webm|zip)');
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
@@ -80,7 +103,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function (err, browserSync) {
-        const content_404 = fs.readFileSync('_site/404.html');
+        const content_404 = fs.readFileSync('dist/404.html');
 
         browserSync.addMiddleware('*', (req, res) => {
           // Provides the 404 content without redirect.
@@ -99,12 +122,6 @@ module.exports = function (eleventyConfig) {
     // e.g.: *.md, *.njk, *.html, *.liquid
     templateFormats: ['md', 'njk', 'html', 'liquid'],
 
-    // Pre-process *.md files with: (default: `liquid`)
-    markdownTemplateEngine: 'njk',
-
-    // Pre-process *.html files with: (default: `liquid`)
-    htmlTemplateEngine: 'njk',
-
     // -----------------------------------------------------------------
     // If your site deploys to a subdirectory, change `pathPrefix`.
     // Don’t worry about leading and trailing slashes, we normalize these.
@@ -119,12 +136,18 @@ module.exports = function (eleventyConfig) {
     pathPrefix: '/',
     // -----------------------------------------------------------------
 
+    markdownTemplateEngine: 'njk',
+    htmlTemplateEngine: 'njk',
+    dataTemplateEngine: 'njk',
+
+    passthroughFileCopy: true,
+
     // These are all optional (defaults are shown):
     dir: {
-      input: '.',
-      includes: '_includes',
-      data: '_data',
-      output: '_site',
+      input: 'src',
+      includes: 'includes',
+      data: 'data',
+      output: 'dist',
     },
   };
 };
