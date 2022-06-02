@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://22.twoweeks.ru/posts/firstpost/</loc>
+    <lastmod>2018-06-1</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/posts/secondpost/</loc>
+    <lastmod>2018-06-4</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/posts/thirdpost/</loc>
+    <lastmod>2018-06-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/posts/fourthpost/</loc>
+    <lastmod>2018-06-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/posts/</loc>
+    <lastmod>2022-06-2</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/home/</loc>
+    <lastmod>2022-06-2</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/</loc>
+    <lastmod>2022-06-2</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/page-list/</loc>
+    <lastmod>2022-06-2</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/tags/</loc>
+    <lastmod>2022-06-2</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/tags/another-tag/</loc>
+    <lastmod>2022-06-2</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/tags/second-tag/</loc>
+    <lastmod>2022-06-2</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/tags/number-2/</loc>
+    <lastmod>2022-06-2</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/tags/posts-with-two-tags/</loc>
+    <lastmod>2022-06-2</lastmod>
+  </url>
+</urlset>
