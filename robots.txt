@@ -1,0 +1,4 @@
+Sitemap: https://22.twoweeks.ru/sitemap.xml
+
+User-agent: *
+Disallow:
