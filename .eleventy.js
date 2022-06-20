@@ -41,12 +41,6 @@ module.exports = function (eleventyConfig) {
     return array.slice(0, n);
   });
 
-  function filterTagList(tags) {
-    return (tags || []).filter(tag => ['all', 'nav', 'post', 'posts'].indexOf(tag) === -1);
-  }
-
-  eleventyConfig.addFilter('filterTagList', filterTagList);
-
   // Return the smallest number argument
   eleventyConfig.addFilter('min', (...numbers) => {
     return Math.min.apply(null, numbers);

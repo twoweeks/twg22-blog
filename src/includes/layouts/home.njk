@@ -1,5 +1,7 @@
 ---
 layout: layouts/base.njk
-templateClass: tmpl-home
+templateClass: content
 ---
+{% include "../home-top.njk" %}
+
 {{ content | safe }}

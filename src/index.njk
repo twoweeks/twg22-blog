@@ -1,31 +1,12 @@
-<html lang="ru">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+{% set maxPosts = collections.posts.length | min(5) %}
 
-    <meta name="description" content="{{ description or metadata.description }}">
-    <meta name="generator" content="{{ eleventy.generator }}">
+{% set postslist = collections.posts | head(-5) %}
+{% set postslistCounter = collections.posts | length %}
 
-    <title>TWO WEEKS GAME 22</title>
-
-    <link rel="stylesheet" href="{{ '/styles/landing.css' | url }}">
-
-    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
-  </head>
-  <body>
-    <header><h1 class="heading">TWO WEEKS GAME 22</h1></header>
-
-    <main class="spacings">
-      <p>here it comes</p>
-      <p>июль 2022</p>
-    </main>
-
-    <hr class="delimiter" />
-
-    <footer class="spacings">
-      <p><a href="mailto:op@gdjams.ru">op@gdjams.ru</a> / <span class="tripcode">!!oGnewmDbmI</span></p>
-      <p><a href="https://discord.gg/FNFnJVCZA9">сервер в discord</a> / <a href="https://t.me/gdchat">чат в telegram</a> </p>
-    </footer>
-  </body>
-</html>
+{% include "postslist.njk" %}
