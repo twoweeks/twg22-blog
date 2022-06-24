@@ -2,9 +2,9 @@
   "title": "Two Weeks Game 22",
   "url": "https://22.twoweeks.ru",
   "language": "ru",
-  "description": "Конкурс по разработке видеоигр",
+  "description": "Конкурс по разработке видеоигр за две недели",
   "feed": {
-    "subtitle": "Конкурс по разработке видеоигр",
+    "subtitle": "Конкурс по разработке видеоигр за две недели",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://22.twoweeks.ru"
