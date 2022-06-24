@@ -6,7 +6,7 @@
     <title>{% if title %}{{ title }} – {% endif %}{{ metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
 
-    <link rel="shortcut icon" href="{{ '/favicon.ico' | url }}" />
+    <link rel="shortcut icon" href="{{ '/img/favicon.png' | addTimestamp | url }}" />
 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
@@ -19,7 +19,7 @@
       <header class="header">
         <h1 class="header__title hidden">{{ metadata.title }}</h1>
         <div class="header__image" style="--im-w: 1080px; --im-h: 400px;">
-          <a href="/"><img width="1080" height="400" src="{{ '/img/header/header.jpg' | url }}" srcset="{{ '/img/header/header.jpg' | url }}, {{ '/img/header/header-2x.jpg' | url }} 2x" alt="{{ metadata.title }}"></a>
+          <a href="/"><img width="1080" height="400" src="{{ '/img/header/header.jpg' | addTimestamp | url }}" srcset="{{ '/img/header/header.jpg' | addTimestamp | url }}, {{ '/img/header/header-2x.jpg' | addTimestamp | url }} 2x" alt="{{ metadata.title }}"></a>
         </div>
       </header>
 
