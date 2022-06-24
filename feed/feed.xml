@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Two Weeks Game 22</title>
-	<subtitle>Конкурс по разработке видеоигр</subtitle>
+	<subtitle>Конкурс по разработке видеоигр за две недели</subtitle>
 	
 	<link href="https://22.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://22.twoweeks.ru"/>
