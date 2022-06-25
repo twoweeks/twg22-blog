@@ -5,12 +5,27 @@
 	
 	<link href="https://22.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://22.twoweeks.ru"/>
-	<updated>2022-06-20T00:00:00Z</updated>
+	<updated>2022-06-25T00:00:00Z</updated>
 	<id>https://22.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Отчёты по пожертвованиям</title>
+		<link href="https://22.twoweeks.ru/posts/02-donations/"/>
+		<updated>2022-06-25T00:00:00Z</updated>
+		<id>https://22.twoweeks.ru/posts/02-donations/</id>
+		<content type="html">&lt;p&gt;В этом посте будут собраны все пожертвования в призовой фонд конкурса. Список обновляется.&lt;/p&gt;
+&lt;p&gt;Стартовый призовой фонд - 15 0000 ₽.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ТК · 25.06.2022 · 3 000 ₽ · Геймдев Шейх · комментария нет&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ЮМ - ЮMoney, ТК - Тинькофф Банк. --&gt;
+&lt;p&gt;Спасибо всем за &lt;a href=&quot;https://22.twoweeks.ru/pages/rules/#podderzhat-konkurs&quot;&gt;поддержку конкурса&lt;/a&gt;!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Стартуем!</title>
