@@ -10,7 +10,8 @@
     "debug": "DEBUG=* eleventy",
     "bench": "DEBUG=Eleventy:Benchmark* eleventy",
     "lint": "eslint *.js",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -38,6 +39,7 @@
     "eslint": "8.18.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.0.0",
+    "gh-pages": "4.0.0",
     "html-minifier": "4.0.0",
     "markdown-it": "13.0.1",
     "markdown-it-anchor": "8.6.4",
