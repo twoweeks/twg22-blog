@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 - **Дмитрий** <span style="color: #228854;">!!oGnewmDbmI</span> - организатор этого конкурса, а также прошлых TWG 7, 8, 9, 13, 16, 20, и некоторых других. Twitch: [twitch.tv/rulait](https://www.twitch.tv/rulait).
 
-- **Andrusha** <q>Game Dynasty</q> - организатор TWG 12, 14, 15, 17, 18, 20 (Underground). Победитель TWG 10, 12, призёр TWG 13, участник многих других конкурсов. Организатор и участник Siberian Game Jam. Twitch: [twitch.tv/andryshatruehard](https://www.twitch.tv/andryshatruehard).
+- **Andrysha** <q>Game Dynasty</q> - организатор TWG 12, 14, 15, 17, 18, 20 (Underground). Победитель TWG 10, 12, призёр TWG 13, участник многих других конкурсов. Организатор и участник Siberian Game Jam. Twitch: [twitch.tv/andryshatruehard](https://www.twitch.tv/andryshatruehard).
 
 - **Дарк** <q>Sharpened Pikes</q> - победитель TWG 5, 6, 16. Призёр TWG 7, 8. Участник TWG 2, 9. Twitch: [twitch.tv/sharpenedpikes](https://www.twitch.tv/sharpenedpikes).
 
