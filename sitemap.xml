@@ -2,31 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://22.twoweeks.ru/posts/</loc>
-    <lastmod>2022-06-1</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://22.twoweeks.ru/page-list/</loc>
-    <lastmod>2022-06-1</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://22.twoweeks.ru/</loc>
-    <lastmod>2022-06-1</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://22.twoweeks.ru/pages/rules/</loc>
-    <lastmod>2022-06-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://22.twoweeks.ru/pages/send-form/</loc>
-    <lastmod>2022-06-13</lastmod>
-  </url>
-  
-  <url>
     <loc>https://22.twoweeks.ru/posts/01-start/</loc>
     <lastmod>2022-06-20</lastmod>
   </url>
@@ -38,6 +13,31 @@
   
   <url>
     <loc>https://22.twoweeks.ru/posts/03-judges/</loc>
+    <lastmod>2022-06-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/posts/</loc>
+    <lastmod>2022-06-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/</loc>
+    <lastmod>2022-06-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/page-list/</loc>
+    <lastmod>2022-06-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/pages/rules/</loc>
+    <lastmod>2022-06-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://22.twoweeks.ru/pages/send-form/</loc>
     <lastmod>2022-06-29</lastmod>
   </url>
 </urlset>
