@@ -5,12 +5,45 @@
 	
 	<link href="https://22.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://22.twoweeks.ru"/>
-	<updated>2022-06-25T00:00:00Z</updated>
+	<updated>2022-06-29T00:00:00Z</updated>
 	<id>https://22.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Представляем судей</title>
+		<link href="https://22.twoweeks.ru/posts/03-judges/"/>
+		<updated>2022-06-29T00:00:00Z</updated>
+		<id>https://22.twoweeks.ru/posts/03-judges/</id>
+		<content type="html">&lt;p&gt;А также немного про изменение правил оценивания, и подсказки для темы конкурса!&lt;/p&gt;
+&lt;h3 id=&quot;spisok-sudej-konkursa&quot; tabindex=&quot;-1&quot;&gt;Список судей конкурса &lt;a class=&quot;direct-link&quot; href=&quot;https://22.twoweeks.ru/posts/03-judges/#spisok-sudej-konkursa&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Дмитрий&lt;/strong&gt; &lt;span style=&quot;color: #228854;&quot;&gt;!!oGnewmDbmI&lt;/span&gt; - организатор этого конкурса, а также прошлых TWG 7, 8, 9, 13, 16, 20, и некоторых других. Twitch: &lt;a href=&quot;https://www.twitch.tv/rulait&quot;&gt;twitch.tv/rulait&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Andrusha&lt;/strong&gt; &lt;q&gt;Game Dynasty&lt;/q&gt; - организатор TWG 12, 14, 15, 17, 18, 20 (Underground). Победитель TWG 10, 12, призёр TWG 13, участник многих других конкурсов. Организатор и участник Siberian Game Jam. Twitch: &lt;a href=&quot;https://www.twitch.tv/andryshatruehard&quot;&gt;twitch.tv/andryshatruehard&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Дарк&lt;/strong&gt; &lt;q&gt;Sharpened Pikes&lt;/q&gt; - победитель TWG 5, 6, 16. Призёр TWG 7, 8. Участник TWG 2, 9. Twitch: &lt;a href=&quot;https://www.twitch.tv/sharpenedpikes&quot;&gt;twitch.tv/sharpenedpikes&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Утка&lt;/strong&gt; &lt;q&gt;Golo Games&lt;/q&gt; - организатор TWG X (10), судья TWG 13. Участник TWG 6 и 11. Стример конкурсов, новостник. Twitch: &lt;a href=&quot;https://www.twitch.tv/gologames&quot;&gt;twitch.tv/gologames&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;Также, чтобы у участников было несколько повышенное влияние на финальную оценку игр, было решено следующее: после того как участниками будут отправлены формы с оценками, их разделят на несколько равных групп (по дате отправки), и уже от оценок этих групп будет браться медиана. В таком случае, одна такая группа выступает как отдельный судья.&lt;/p&gt;
+&lt;p&gt;Подробнее - в &lt;a href=&quot;https://22.twoweeks.ru/pages/rules/#itogi-konkursa&quot;&gt;рекламенте конкурса&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Также, даём пару подсказок по теме конкурса (для пытливых):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Тема - название популярной песни российской рок-группы&lt;/li&gt;
+&lt;li&gt;Тема связанна с одной из тем тех TWG, которые ранее организовывал Дмитрий&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Отчёты по пожертвованиям</title>
