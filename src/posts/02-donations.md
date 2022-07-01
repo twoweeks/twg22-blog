@@ -14,6 +14,7 @@ layout: layouts/post.njk
 - ТК · 25.06.2022 · 3 000 ₽ · levelgd · <q>На поддержку отечественной сети быстрого питания .&bsol;&bsol;</q>
 - ТК · 25.06.2022 · 5 000 ₽ · Аноним · <q>There will be bloodshed like a flood of pain.Find a peace within trying tomake history over paradise</q>
 - ТК · 25.06.2022 · 10 ₽ · РевендженсСтатус69 · <q>это тот кто 5к кидал хз почему не написалось</q>
+- ТК · 25.06.2022 · 990 ₽ · levelgd · <q>тема как всегда</q>
 <!-- ЮМ - ЮMoney, ТК - Тинькофф Банк. -->
 
 Спасибо всем за [поддержку конкурса](/pages/rules/#podderzhat-konkurs)!
