@@ -5,12 +5,53 @@
 	
 	<link href="https://22.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://22.twoweeks.ru"/>
-	<updated>2022-06-29T00:00:00Z</updated>
+	<updated>2022-07-01T00:00:00Z</updated>
 	<id>https://22.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Тема конкурса</title>
+		<link href="https://22.twoweeks.ru/posts/04-theme/"/>
+		<updated>2022-07-01T00:00:00Z</updated>
+		<id>https://22.twoweeks.ru/posts/04-theme/</id>
+		<content type="html">&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0; font-size: 1.5em;&quot;&gt;тема конкурса:&lt;/p&gt;
+  &lt;p style=&quot;margin-top: 0.5em; font-size: 2.25em; font-weight: bold;&quot;&gt;Скованные одной цепью, связанные одной целью&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;margin-top: 1em; text-align: center;&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0; font-size: 1.5em;&quot;&gt;сеттинги:&lt;/p&gt;
+  &lt;p style=&quot;margin-top: 0.5em; margin-bottom: 0; font-size: 1.5em; font-weight: bold;&quot;&gt;Последний человек на земле&lt;/p&gt;
+  &lt;p style=&quot;margin-top: 0em; margin-bottom: 0; font-size: 1.5em; font-weight: bold;&quot;&gt;Чужая земля&lt;/p&gt;
+  &lt;p style=&quot;margin-top: 0em; margin-bottom: 0; font-size: 1.5em; font-weight: bold;&quot;&gt;Клетка&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Стартуем!&lt;/p&gt;
+&lt;p&gt;Как всегда, допускается свободная интерпретация темы и сеттингов. Это может быть игровая механика или же сюжетная концепция. Всё ограничено только твоей фантазией, анон!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;achivki&quot; tabindex=&quot;-1&quot;&gt;Ачивки &lt;a class=&quot;direct-link&quot; href=&quot;https://22.twoweeks.ru/posts/04-theme/#achivki&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Тема - мемы&lt;/strong&gt; - наконец-то. Ваша игра должна содержать мемы. Мало кто на TWG преуспел на поприще мемных игр, но если удача повернётся к вам нужной стороной, скромный приз за эту ачивку - ваш. Приз - 500 ₽&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;до окончания текущего дня могут быть докинуты ещё ачивки&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&quot;poluachivki&quot; tabindex=&quot;-1&quot;&gt;Полуачивки &lt;a class=&quot;direct-link&quot; href=&quot;https://22.twoweeks.ru/posts/04-theme/#poluachivki&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Do you guys not have phones?&lt;/strong&gt; - игра должна быть адаптирована под мобильные платформы (для простоты - только Android). Приз - 1 000 ₽&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Импортозамещение&lt;/strong&gt; - сделать игру на отечественных технологиях (например, на Unigine). Приз - 1 500 ₽&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;specialnye-prizy-ot-urovnya-gd&quot; tabindex=&quot;-1&quot;&gt;Специальные призы от Уровня /gd/ &lt;a class=&quot;direct-link&quot; href=&quot;https://22.twoweeks.ru/posts/04-theme/#specialnye-prizy-ot-urovnya-gd&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;На эти призы претендуют все игры по умолчанию.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Лучшая игра второго плана&lt;/strong&gt; - выдается одной из годных игр, занявшей с 4 по последнее место. Оценка независимого жюри. Приз - 3 000 ₽&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Приз от рандомной собаки&lt;/strong&gt; - победителя в определит генератор случайных чисел, в розыгрыше участвуют все финалки. Приз - 777 ₽&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;Демоверсию своей игры нужно отправить до &lt;strong&gt;8 июля, 23:59 МСК&lt;/strong&gt; включительно. Это считается регистрацией в конкурсе, и без неё вы не допускаетесь к финалу.&lt;/p&gt;
+&lt;p&gt;Форма отправки игры будет доступна за пару дней до конца демонедели, следите за новостями о конкурсе на нашем &lt;a href=&quot;https://discord.gg/FNFnJVCZA9&quot;&gt;Discord-сервере&lt;/a&gt;, в тредах на /gd/, в &lt;a href=&quot;https://t.me/gdchat&quot;&gt;Telegram-чате&lt;/a&gt;, и в других источниках.&lt;/p&gt;
+&lt;p&gt;Всем удачи на конкурсе!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Представляем судей</title>
@@ -57,6 +98,7 @@
 &lt;li&gt;ТК · 25.06.2022 · 3 000 ₽ · MarkM2020 · &lt;q&gt;Жертва алтарю ТВГ. И да бля, не обосрись с темой, молю нахуй!&lt;/q&gt;&lt;/li&gt;
 &lt;li&gt;ТК · 25.06.2022 · 3 000 ₽ · levelgd · &lt;q&gt;На поддержку отечественной сети быстрого питания .\\&lt;/q&gt;&lt;/li&gt;
 &lt;li&gt;ТК · 25.06.2022 · 5 000 ₽ · Аноним · &lt;q&gt;There will be bloodshed like a flood of pain.Find a peace within trying tomake history over paradise&lt;/q&gt;&lt;/li&gt;
+&lt;li&gt;ТК · 25.06.2022 · 10 ₽ · РевендженсСтатус69 · &lt;q&gt;это тот кто 5к кидал хз почему не написалось&lt;/q&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- ЮМ - ЮMoney, ТК - Тинькофф Банк. --&gt;
 &lt;p&gt;Спасибо всем за &lt;a href=&quot;https://22.twoweeks.ru/pages/rules/#podderzhat-konkurs&quot;&gt;поддержку конкурса&lt;/a&gt;!&lt;/p&gt;
