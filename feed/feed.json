@@ -10,6 +10,12 @@
     "url": "https://22.twoweeks.ru"
   },
   "items": [{
+      "id": "https://22.twoweeks.ru/posts/05-demo-form/",
+      "url": "https://22.twoweeks.ru/posts/05-demo-form/",
+      "title": "Опубликована форма отправки демоверсий игр",
+      "content_html": "<p>Ссылка: <a href=\"https://22.twoweeks.ru/pages/send-form/\">https://22.twoweeks.ru/pages/send-form/</a></p>\n<p>Демоверсию своей игры нужно отправить до <strong>8 июля, 23:59 МСК</strong> включительно. Это считается регистрацией в конкурсе, и без неё вы не допускаетесь к финалу.</p>\n",
+      "date_published": "2022-07-06T00:00:00Z"
+    },{
       "id": "https://22.twoweeks.ru/posts/04-theme/",
       "url": "https://22.twoweeks.ru/posts/04-theme/",
       "title": "Тема конкурса",
