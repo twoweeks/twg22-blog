@@ -2,7 +2,7 @@
   <div class="games-container">
     {% for gameInfo in gamesArray %}
     <div class="game">
-      <picture class="game__picture">
+      <picture class="game__picture" {% if not gameInfo.screenshot %}data-empty{% endif %}>
         {% if gameInfo.screenshot %}
         <a href="{{ gameInfo.screenshot }}">
           <img src="{{ gameInfo.screenshot }}" alt="{{ gameInfo.title }}" loading="lazy">
