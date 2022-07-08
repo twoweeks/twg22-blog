@@ -1,0 +1,17 @@
+---
+title: Демоверсии
+date: 2022-07-09
+layout: layouts/post.njk
+---
+
+<p>Всего на конкурс было отправлено {{ { number:games_demo.length, titles: ['проект', 'проекта', 'проектов'] } | declOfNum }}. Их авторы проходят этап регистрации, и теперь должны будут сделать финальные версии своих игр.</p>
+
+<p>Срок окончания приёма финальных версий - <strong>15 июля, 23:59 МСК</strong> включительно.</p>
+
+<p>Девлоги своих проектов можно вести в канале #devlog нашего <a href="https://discord.gg/FNFnJVCZA9">Discord-сервера</a>, в <a href="https://t.me/gdchat">Telegram</a>-канале, а также в треде конкурса в <a href="https://2ch.hk/gd">/gd/</a>.</p>
+
+<p style="text-align: center"><b><a href="https://1drv.ms/u/s!AsNfKXA75jDi52g6VXiAcggF55x5?e=jcHFdh">&gt;&gt;&gt; СКАЧАТЬ ВСЕ ИГРЫ &lt;&lt;&lt;</a></b></p>
+
+{% from "macro/games-list.njk" import gamesList %}
+
+{{ gamesList(games_demo) }}
