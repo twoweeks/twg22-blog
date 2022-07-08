@@ -296,10 +296,10 @@
     &lt;/div&gt;
     
     &lt;div class=&quot;game&quot;&gt;
-      &lt;picture class=&quot;game__picture&quot; data-empty=&quot;&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
         
-        &lt;a href=&quot;javascript:void 0&quot;&gt;
-          &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg&quot; alt=&quot;скриншота нет&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;a href=&quot;https://i.vas3k.club/387a969dc0a237a44cb85358bfa4ce5470011de1abe0fa9119e38d405de8006d.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/387a969dc0a237a44cb85358bfa4ce5470011de1abe0fa9119e38d405de8006d.jpg&quot; alt=&quot;Action 51&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/a&gt;
         
       &lt;/picture&gt;
