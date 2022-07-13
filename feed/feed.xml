@@ -5,12 +5,22 @@
 	
 	<link href="https://22.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://22.twoweeks.ru"/>
-	<updated>2022-07-09T00:00:00Z</updated>
+	<updated>2022-07-14T00:00:00Z</updated>
 	<id>https://22.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Опубликована форма отправки финальных версий игр</title>
+		<link href="https://22.twoweeks.ru/posts/07-final-form/"/>
+		<updated>2022-07-14T00:00:00Z</updated>
+		<id>https://22.twoweeks.ru/posts/07-final-form/</id>
+		<content type="html">&lt;p&gt;Ссылка: &lt;a href=&quot;https://22.twoweeks.ru/pages/send-form/&quot;&gt;https://22.twoweeks.ru/pages/send-form/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Финальную версию своей игры нужно отправить до &lt;strong&gt;15 июля, 23:59 МСК&lt;/strong&gt; включительно.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Демоверсии</title>

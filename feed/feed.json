@@ -10,6 +10,12 @@
     "url": "https://22.twoweeks.ru"
   },
   "items": [{
+      "id": "https://22.twoweeks.ru/posts/07-final-form/",
+      "url": "https://22.twoweeks.ru/posts/07-final-form/",
+      "title": "Опубликована форма отправки финальных версий игр",
+      "content_html": "<p>Ссылка: <a href=\"https://22.twoweeks.ru/pages/send-form/\">https://22.twoweeks.ru/pages/send-form/</a></p>\n<p>Финальную версию своей игры нужно отправить до <strong>15 июля, 23:59 МСК</strong> включительно.</p>\n",
+      "date_published": "2022-07-14T00:00:00Z"
+    },{
       "id": "https://22.twoweeks.ru/posts/06-demo/",
       "url": "https://22.twoweeks.ru/posts/06-demo/",
       "title": "Демоверсии",
