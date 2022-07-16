@@ -1,0 +1,15 @@
+---
+title: Финальные версии
+date: 2022-07-17
+layout: layouts/post.njk
+---
+
+<p>Всего на конкурс было отправлено {{ { number:games_final.length, titles: ['проект', 'проекта', 'проектов'] } | declOfNum }}.</p>
+
+<p>Теперь участникам и судьям даётся время поиграть в финальные версии, чтобы составить своё мнение, до <strong>19 июля, 23:59 МСК</strong> включительно. Затем, в течение <strong>20 июля</strong>, им будут отправлены анкеты для голосования.</p>
+
+<p style="text-align: center"><b><a href="https://1drv.ms/u/s!AsNfKXA75jDi7VxDJu97R9D7n69z?e=1Zd49c">&gt;&gt;&gt; СКАЧАТЬ ВСЕ ИГРЫ &lt;&lt;&lt;</a></b></p>
+
+{% from "macro/games-list.njk" import gamesList %}
+
+{{ gamesList(games_final) }}
