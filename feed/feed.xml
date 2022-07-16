@@ -18,7 +18,7 @@
 		<updated>2022-07-17T00:00:00Z</updated>
 		<id>https://22.twoweeks.ru/posts/09-final/</id>
 		<content type="html">
-&lt;p&gt;Всего на конкурс было отправлено 31 проект.&lt;/p&gt;
+&lt;p&gt;Всего на конкурс было отправлено 32 проекта.&lt;/p&gt;
 
 &lt;p&gt;Теперь участникам и судьям даётся время поиграть в финальные версии, чтобы составить своё мнение, до &lt;strong&gt;19 июля, 23:59 МСК&lt;/strong&gt; включительно. Затем, в течение &lt;strong&gt;20 июля&lt;/strong&gt;, им будут отправлены анкеты для голосования.&lt;/p&gt;
 
@@ -849,6 +849,33 @@
           На земле остались лишь бесплилотные автомобили. И ты. Поймав двух из них и сковав цепью, чтоб не разбежались, ты участвуешь в бесконечной гонке.
         &lt;/p&gt;
         &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7mWhDXxMLm08AL24?e=CAGbgO&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/4914be418db0f9f22486eb61af4c881ab7977b3ba304e7112d76ee0d981b98cc.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/4914be418db0f9f22486eb61af4c881ab7977b3ba304e7112d76ee0d981b98cc.jpg&quot; alt=&quot;Первобит&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Первобит&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Godot, GIMP, GoldWave
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Survival
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          В невиданном комплюктерном первобитном мире цифровые организмы столкнулись в жестокой борьбе за выживание.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7menlQZbIw5EoKla?e=ayHXl2&quot; target=&quot;_blank&quot;&gt;
           &lt;span&gt;скачать&lt;/span&gt;
         &lt;/a&gt;
       &lt;/div&gt;
