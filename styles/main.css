@@ -167,14 +167,20 @@ body {
 
 .games-container .game .game__info__title,
 .games-container .game .game__info__genre,
+.games-container .game .game__info__tools,
 .games-container .game .game__info__description {
   margin: 0;
 }
 
 .games-container .game .game__info__genre,
+.games-container .game .game__info__tools,
 .games-container .game .game__info__description,
 .games-container .game .game__info__link {
   margin-top: 0.4em;
+}
+
+.games-container .game .game__info__tools {
+  font-size: 0.8em;
 }
 
 .games-container .game .game__info__link {

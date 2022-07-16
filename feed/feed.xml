@@ -5,12 +5,871 @@
 	
 	<link href="https://22.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://22.twoweeks.ru"/>
-	<updated>2022-07-14T00:00:00Z</updated>
+	<updated>2022-07-17T00:00:00Z</updated>
 	<id>https://22.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Финальные версии</title>
+		<link href="https://22.twoweeks.ru/posts/09-final/"/>
+		<updated>2022-07-17T00:00:00Z</updated>
+		<id>https://22.twoweeks.ru/posts/09-final/</id>
+		<content type="html">
+&lt;p&gt;Всего на конкурс было отправлено 31 проект.&lt;/p&gt;
+
+&lt;p&gt;Теперь участникам и судьям даётся время поиграть в финальные версии, чтобы составить своё мнение, до &lt;strong&gt;19 июля, 23:59 МСК&lt;/strong&gt; включительно. Затем, в течение &lt;strong&gt;20 июля&lt;/strong&gt;, им будут отправлены анкеты для голосования.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;a href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7VxDJu97R9D7n69z?e=1Zd49c&quot;&gt;&amp;gt;&amp;gt;&amp;gt; СКАЧАТЬ ВСЕ ИГРЫ &amp;lt;&amp;lt;&amp;lt;&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+
+
+
+
+  &lt;div class=&quot;games-container&quot;&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/47e40a258e9e2557278ef5a6b523e5c417a275413ea4d515ca9e153ee88d1405.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/47e40a258e9e2557278ef5a6b523e5c417a275413ea4d515ca9e153ee88d1405.jpg&quot; alt=&quot;In Cell&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;In Cell&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Головоломка
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Головоломка
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Тоталитарная демократическая утопия будущего. Политическая верхушка пошла на эксперимент - передачу решений по жизненно важным вопросам государства на рядовых граждан. В условиях разгорающегося конфликта между соседними государствами, а также появления революционного движения внутри Страны, вам предстоит ежедневно решать - что действительно важнее для вас и ваших жителей.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7V0dQ_bULz3qkU7u?e=Xl4mfO&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/596278d2182de301671fd364f17d221703b4273389a366d93cf084a9f86097f3.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/596278d2182de301671fd364f17d221703b4273389a366d93cf084a9f86097f3.jpg&quot; alt=&quot;Cult of Biboran&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Cult of Biboran&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Гонка на время
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Гонка на время
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вы, Александр Гаврилович Абдулов, советский актер и алкоголик, нарушили все заветы и были выгнаны с небес за то что попали во все круги ада и устроили там пьяные дебоши. Основано на Священном Биборане Сделано за неделю на Bevy &amp;amp; Rust. Исходники в комплекте. Вне конкурса, так как священный биборан отрицает деньги, а признает только сигареты в качестве денег.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7V6NC78kxBq94Rwq?e=7jgzwM&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/3310e665099de4e5e5cff3df754d17eb2748d0e48608fc9bbf6c7124d4725019.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/3310e665099de4e5e5cff3df754d17eb2748d0e48608fc9bbf6c7124d4725019.jpg&quot; alt=&quot;Nibiru Power&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Nibiru Power&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Adventure
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Adventure
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Рептилоиды с планеты Нибиру атаковали королевство мемов, единственного выжившего волшебника посадили в клетку. Оживший призрак вселяется в кандалы узника. чтобы помочь ему обрести новые способности и победить врага.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7V_DiK3ZFMfFN956?e=bB5RdU&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/75bf07e9f00d691d4079860d139b176df8cb29da1bd147539d503e45173f85ce.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/75bf07e9f00d691d4079860d139b176df8cb29da1bd147539d503e45173f85ce.jpg&quot; alt=&quot;Colchis&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Colchis&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Walking Simulator
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Walking Simulator
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          История о том, как исследователь на космической станции “Колхида”, занимающийся изучением Ио на протяжении месяца, столкнулся с трудностями.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7WE_8x3CD60p0OX4?e=DSHsFE&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/6307ca2752a6daaa5e5b0e79811365b64a2f72eaf741ac30d44ac0670ce3785d.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/6307ca2752a6daaa5e5b0e79811365b64a2f72eaf741ac30d44ac0670ce3785d.jpg&quot; alt=&quot;Stay In Void&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Stay In Void&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Выживание
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Выживание
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вы оказываетесь одни с робопсом на чужой планете. Ваша задача выжить.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7lkt3jl8HFz6G5GA?e=uJ8Kvw&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/b99b0fe78ccac0f1e58ffed985911ffd8046811956d78b1ee3dba4f98eef5a4a.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/b99b0fe78ccac0f1e58ffed985911ffd8046811956d78b1ee3dba4f98eef5a4a.jpg&quot; alt=&quot;Earth Attacks!&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Earth Attacks!&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: tower defense
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: tower defense
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Увидьте своими глазами историю о жадности и тщеславии! Игроку предстоит защищать город от наступления людей строя сооружения используюя силу земли.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7WJOfOqjSYDjCaIS?e=h8cjFt&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/5b453b2bf350722310fe7ab425450e1fa877ac3ff43c628f42cdcbbd5e1ae45e.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/5b453b2bf350722310fe7ab425450e1fa877ac3ff43c628f42cdcbbd5e1ae45e.jpg&quot; alt=&quot;Mortalbound&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Mortalbound&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Симулятор собирания предметов на уровне
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Симулятор собирания предметов на уровне
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Никто не знает, как и когда началась эта война. Стерты с лица земли были все: люди, животные, растительность... И не осталось никого, кроме загадочным образом соединенных вместе двух братьев. Один - сильный но не ловкий, другой - ловкий, но не сильный. Вместе они, помогая друг другу... достигают цели.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7WtQAqUy53TGURx_?e=fR621T&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/ff3522e8c387c4c5e3cebf9fdca1ef7434e03b6cb3a5f946533ad60ec427af32.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/ff3522e8c387c4c5e3cebf9fdca1ef7434e03b6cb3a5f946533ad60ec427af32.jpg&quot; alt=&quot;Action 51&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Action 51&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Аркада
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Аркада
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Два инопланетянина сбегают с базы на чужой для них Земле. Им приходится держаться вместе, так как если они отойдут друг от друга слишком далеко, сработает детонатор, и оба взорвутся.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7WPuaFEh8D0AUlWN?e=BG1vp2&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/6d20aa3b1be178a61e9f71279c55bc52a3fc38ce704ce66de84097f6380d3521.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/6d20aa3b1be178a61e9f71279c55bc52a3fc38ce704ce66de84097f6380d3521.jpg&quot; alt=&quot;Courgettes &amp;amp; Seeds&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Courgettes &amp;amp; Seeds&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Платформер-головоломка
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Платформер-головоломка
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Собирайте монеты, чтобы освободить узников, избегая ловушек и насекомых
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7WrP201XdchfQrss?e=NhRNkM&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/d2fe9a9fe8019d4414284a522bb6a2aad0d0c3c27be5245c569903572e5e2de5.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/d2fe9a9fe8019d4414284a522bb6a2aad0d0c3c27be5245c569903572e5e2de5.jpg&quot; alt=&quot;Catenarian Buddhist Successor&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Catenarian Buddhist Successor&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Песочница/Симулятор дальнобойщика
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Песочница/Симулятор дальнобойщика
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Главная героиня игры устроилась работать менеджером по логистике в недавно открывшееся предприятие общепита. Сегодня её не первый день на этой ответственной должности, но сможет ли она снова совладать с цепью свалившихся на неё заданий?
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7WUmxvUuOK9SCw1n?e=yyr7yr&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/540901dd1b4762634156f94beadb0b7b874dff72f4cff78b2263e0f916fa4cc5.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/540901dd1b4762634156f94beadb0b7b874dff72f4cff78b2263e0f916fa4cc5.jpg&quot; alt=&quot;Revenge of the shadow&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Revenge of the shadow&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Хоррор
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Хоррор
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Игра где оказался в подвале и где злобные тени вселились в куклы (манекены) и ты должен выбраться живым из него!!! (По возможности не подходите к призраку кошке, она даст вам совет но займет экран этим же советом)!!!
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7lWIwtYI5ScRCGh3?e=wgOkCz&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/9d419bdd57da23401f25e82f493b50dcaa83c5f459fb708f9bb29a3998ed1bdf.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/9d419bdd57da23401f25e82f493b50dcaa83c5f459fb708f9bb29a3998ed1bdf.jpg&quot; alt=&quot;DUMER&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;DUMER&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Physics Puzzle Platformer
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Physics Puzzle Platformer
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Одна цепь: два черепа.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7W0I4dvyX1XxKAf0?e=S8rniy&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/ce3296705860eeca3e4df260d3bf4e642808f26d4ad1002883f2261b33cfebbc.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/ce3296705860eeca3e4df260d3bf4e642808f26d4ad1002883f2261b33cfebbc.jpg&quot; alt=&quot;Жизнь Афродия&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Жизнь Афродия&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Приключения
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Приключения
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          А что если.. если ты останешься последним человеком на земле? Что ты будешь делать?
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7W86rgZ3hLc77QyP?e=Gwjd9c&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/bffa7560914f1274eeda4eec4b6222c2b27bb081317365ecb2b4cc37dd015ad6.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/bffa7560914f1274eeda4eec4b6222c2b27bb081317365ecb2b4cc37dd015ad6.jpg&quot; alt=&quot;For The Loop&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;For The Loop&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Шутер
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Шутер
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Возьмите под свое руководство Пупу для уничтожения полчищ врагов и боссов. Контролируйте подключения к генераторам для нанесения сокрушительного урона. Игра и все ассеты (кроме звуков) разработаны в рамках TWG 2022 командой Wintervoice. Рекомендуем проходить в режиме истории (кнопка Start), но если не выйдет - посмотрите весь контент по кнопке Levels.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7W4bMONTgMgFLcX0?e=MPeX6O&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/520e6c74f9e6fe7d3d2ec1da60e07c644e8b4e2738d37b0284f38d7dcc8ca8a2.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/520e6c74f9e6fe7d3d2ec1da60e07c644e8b4e2738d37b0284f38d7dcc8ca8a2.jpg&quot; alt=&quot;СКОВАННЫЕ ОДНИМ ЦЕПНЕМ&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;СКОВАННЫЕ ОДНИМ ЦЕПНЕМ&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Хуйня
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Хуйня
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          (Игра недоделана, можно не качать) Вы - свиной цепень! Паразитирующий ленточный червь, живущий в кишечнике своего носителя - человека. Вашему носителю приходится стать подопытным в эксперименте по созданию сверхорганизма с единой пищеварительной системой &amp;quot;Человеческая многоножка&amp;quot;. Но вам удаётся захватить контроль над многоножкой.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7leO_N-WxddN7_68?e=KPtlaL&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/04c427eada332502bc77bd0a147f822adf4ffe0052cc31668b7bc9aaa1a23b3d.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/04c427eada332502bc77bd0a147f822adf4ffe0052cc31668b7bc9aaa1a23b3d.jpg&quot; alt=&quot;Virion&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Virion&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Arcade, Puzzle, Survival
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Arcade, Puzzle, Survival
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вам доводилось убегать от макрофагов? Клетки. Вас держат в клетке? Клетки. Когда вы бездействуете, вас съедают? Клетки. Связаны. Что вы чувствуете, находя клетку, которую искали? Связаны. Вас учили переставлять  белки в мембране? Связаны. Вы желаете остановить чье-нибудь сердце? Связаны. Вы убили последнего человека на Земле? Связаны цепью ДНК. Повторите три раза. ДНК-ДНК-ДНК.Можете пройти в игру.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7WyhSzBO04h94EGY?e=Kknsnt&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/4a4020bf1be962b73f6b583e0c08b135c2b289eb7a5b1ddf97bb9d122b7ab5ca.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/4a4020bf1be962b73f6b583e0c08b135c2b289eb7a5b1ddf97bb9d122b7ab5ca.jpg&quot; alt=&quot;Zombies Unchained&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Zombies Unchained&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Аркада
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Аркада
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Ты - последний выживший человек в тюрьме во время зомби апокалипсиса. Разрывай цепи и загони как можно больше зомби в клетку! В игре присутсвует ♂right version♂! Платформы: ПК и Андроид
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7XBY_4fo9fTjOujl?e=a43q3H&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/24eb4243b966c273eb2d541728b33923814a2cb50de021f13bec202536976d3b.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/24eb4243b966c273eb2d541728b33923814a2cb50de021f13bec202536976d3b.jpg&quot; alt=&quot;Pinkshake и цепи дружбы&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Pinkshake и цепи дружбы&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: 3D платформер
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: 3D платформер
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Девочка Пинкшейк - ПОСЛЕДНИЙ ЧЕЛОВЕК НА ЗЕМЛЕ. Она живёт со своим псом Пёсиком, но его вдруг крадёт злой Демон Скелетон и увозит в неизестном направлении. Теперь Пинкшейк нужно спасти своего Пёсика, встретить на пути друзей с ОДНОЙ ЦЕЛЬЮ. Создавая ЦЕПОЧКИ из прыжков, они найдут Пёсика на ЧУЖОЙ ЗЕМЛЕ и освободят его из КЛЕТКИ.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7laelxOuk_Bql8WT?e=ik50OJ&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/294b05245fc07100de3781d4256b122f41981ef71f55f0c8a94fbf4745168445.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/294b05245fc07100de3781d4256b122f41981ef71f55f0c8a94fbf4745168445.jpg&quot; alt=&quot;Vital Flaunt&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Vital Flaunt&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Адвенчура от первого лица
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Адвенчура от первого лица
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Описание: Вдали от цивилизации уже много лет живёт в одиночестве в своей хижине один необычный человек. И так бы он и продолжал жить в спокойствии, пока одной ночью его не посетил незванный гость...
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7ljNb5T5LDifko5T?e=l2u76u&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/e7a126fd6b619e8661e48ab586849c16b76ef62df3cb1cdd2ad9f4ecb26e4222.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/e7a126fd6b619e8661e48ab586849c16b76ef62df3cb1cdd2ad9f4ecb26e4222.jpg&quot; alt=&quot;chinchin&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;chinchin&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: casual
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: casual
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          СОБЕРИ ИХ ВСЕ
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7lsrFH7ut5qdsRL6?e=pYNOLt&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/2d6a224be74e20f61301dedd802f747dfd9c72ccf458fb1850df52be2921590a.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/2d6a224be74e20f61301dedd802f747dfd9c72ccf458fb1850df52be2921590a.jpg&quot; alt=&quot;Сцепление&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Сцепление&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Жанр: Приключение, Квест, CO-OP
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Жанр: Приключение, Квест, CO-OP
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Двое незнакомцев, находятся в плену у некоторой группы людей, по разным причинам.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7lrvbrlNiAwSQJ7I?e=enK2pa&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/7e01d8ca0d8a9c570659dee79d8d1d8261f2957de5f3c94281e48ac7e1fb087d.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/7e01d8ca0d8a9c570659dee79d8d1d8261f2957de5f3c94281e48ac7e1fb087d.jpg&quot; alt=&quot;Человек. Вселенная. Пасынок Ада.&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Человек. Вселенная. Пасынок Ада.&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Шутер от первого лица
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Шутер от первого лица
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вы сидите в камере. Вы видите знакомое лицо. Вам нужно отсюда выбираться. Шутер от первого лица, где один выстрел равен одной смерти.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7lxZryo2VTNQyDmC?e=0sLDz1&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/08b4f54e5c55851342bd88542872de6cc1aad5b0f023b73b8bc21de78e34689b.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/08b4f54e5c55851342bd88542872de6cc1aad5b0f023b73b8bc21de78e34689b.jpg&quot; alt=&quot;Наследие&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Наследие&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: платформер, головоломка
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: платформер, головоломка
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Сюжет повествует о нелегких отношениях сына с телом его отца.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7l8NNwyQAskiT_Mi?e=aWidj5&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/2d42fc1d1b34a30dc2c30fa7c11f296b799f5250c551b92d9877298a847dfbdd.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/2d42fc1d1b34a30dc2c30fa7c11f296b799f5250c551b92d9877298a847dfbdd.jpg&quot; alt=&quot;Dungeon Communism&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Dungeon Communism&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Пошаговая головоломка в жанре рпг с диалогами
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Пошаговая головоломка в жанре рпг с диалогами
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Семеро случайных героев оказались в клетке, скованные вместе одной цепью. чтобы выбраться, им предстоит подняться на 7 уровней, решая головоломки и побеждая врагов на своём пути.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7l4YGUsdcXn0vRkA?e=qCMD1e&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/08b71b0ef8128e74712595d6c55672012edea028a7c90e8e4d8bf29b3d355840.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/08b71b0ef8128e74712595d6c55672012edea028a7c90e8e4d8bf29b3d355840.jpg&quot; alt=&quot;Дом Восходящего Солнца&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Дом Восходящего Солнца&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: 3D изометрический Top-Down Shooter
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: 3D изометрический Top-Down Shooter
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          В этой игре вам предстоит стать последним солдатом космической федерации на далёкой и враждебной планете, и не дать врагу захватить научную станцию - Восходящее Солнце.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7mDgkVIe0tKiahwd?e=febKHt&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/0c0f94c702f53e2916b5ae0dc650f3167a8b4a6749555bef2744a96968005b3b.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/0c0f94c702f53e2916b5ae0dc650f3167a8b4a6749555bef2744a96968005b3b.jpg&quot; alt=&quot;BIOCHAIN&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;BIOCHAIN&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Action Puzzle
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Action Puzzle
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Управляйте тенью чтобы найти выход на уровне.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7mYO8ZHPd4NQrLxw?e=8UbsHW&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/d311b168de9d7dcb2edd21762a0522f8c6c609765826b7057c827931f256d74c.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/d311b168de9d7dcb2edd21762a0522f8c6c609765826b7057c827931f256d74c.jpg&quot; alt=&quot;Field of stars&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Field of stars&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Стратегия
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Стратегия
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Вы - соединитель. Ваша задача - с помощью торговли соединить разрозненные планеты далекой системы. Идея в том, чтобы выстроить надежные цепочки торговли для максимально эффективной реализации товара и улучшения отношений планет.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7mNofF-TKz19QlAA?e=TwkvYE&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/9a53556c28f09722d922208a3b786dd886a3de81375a1c6a6772d18a71d7d2f5.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/9a53556c28f09722d922208a3b786dd886a3de81375a1c6a6772d18a71d7d2f5.jpg&quot; alt=&quot;You Were Here&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;You Were Here&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Головоломка
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Головоломка
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Я очнулся и не понимал, где нахожусь. Лучше бы - и не понял.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7mLvkUxduF_mejHu?e=Jg6HSA&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/9648ea63d8775859c23be25d73c9d3d1449d081be01da380a760ea9432206c43.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/9648ea63d8775859c23be25d73c9d3d1449d081be01da380a760ea9432206c43.jpg&quot; alt=&quot;Neon Death 2&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Neon Death 2&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Киберпанк 2078
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Киберпанк 2078
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Описания нет
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7mHaonSbdlChaWa-?e=ldpOGf&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/ccb1254e4045c522842dc00c692f3ff66e435905000f017f5bf22c5d17b3d047.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/ccb1254e4045c522842dc00c692f3ff66e435905000f017f5bf22c5d17b3d047.jpg&quot; alt=&quot;Гульмэн-Наследие или Sex with Death&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Гульмэн-Наследие или Sex with Death&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Выживач-рогалик
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Выживач-рогалик
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Постапокалипсис. Все умерли. Остался только один герой, последний человек который сможет представлять человечество на смертном одре, достаточно сексуальный что бы заново заселить планету, он нашёл уникальный способ спасения человечества. И мести. Всё что осталось на планете это жалкое отребье, способное скорее принести только смерть случайному встречному, а также хитрецы подлецы.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7mQrlLl4_fIfw7y2?e=UZoRPe&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/ca9d19c8dc97dc71efdbf28320f085f8b398ffe0b7e5a5c7a333ad1df14ab63c.jpg&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/ca9d19c8dc97dc71efdbf28320f085f8b398ffe0b7e5a5c7a333ad1df14ab63c.jpg&quot; alt=&quot;Автоскованность&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Автоскованность&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Racing
+          &lt;/p&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанр: Racing
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          На земле остались лишь бесплилотные автомобили. И ты. Поймав двух из них и сковав цепью, чтоб не разбежались, ты участвуешь в бесконечной гонке.
+        &lt;/p&gt;
+        &lt;a class=&quot;game__info__link&quot; href=&quot;https://1drv.ms/u/s!AsNfKXA75jDi7mWhDXxMLm08AL24?e=CAGbgO&quot; target=&quot;_blank&quot;&gt;
+          &lt;span&gt;скачать&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+  &lt;/div&gt;
+
+</content>
+	</entry>
 	
 	<entry>
 		<title>Дополнительный день</title>
@@ -64,6 +923,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Me&amp;amp;MyDog&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: bullethell
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: bullethell
         &lt;/p&gt;
@@ -86,6 +950,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;In Cell&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Головоломка
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Головоломка
         &lt;/p&gt;
@@ -108,6 +977,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;CultOfBiboran&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Falling Simulator / Top-Down Shooter
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Falling Simulator / Top-Down Shooter
         &lt;/p&gt;
@@ -130,6 +1004,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Вторжение Нибиру &lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Adventure
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Adventure
         &lt;/p&gt;
@@ -152,6 +1031,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Лицедей&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Хоррор
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Хоррор
         &lt;/p&gt;
@@ -174,6 +1058,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Гульмэн-Наследие или Sex with Death&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Выживач-рогалик
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Выживач-рогалик
         &lt;/p&gt;
@@ -196,6 +1085,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Сatenarian Buddhist Successor&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Физическая головоломка/Racing
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Физическая головоломка/Racing
         &lt;/p&gt;
@@ -218,6 +1112,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Поридж Редемпшн&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Приключения
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Приключения
         &lt;/p&gt;
@@ -240,6 +1139,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Little Keeper&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: кликер
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: кликер
         &lt;/p&gt;
@@ -262,6 +1166,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;PostHuman&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: 3D,  головоломка, платформер, шутер
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: 3D,  головоломка, платформер, шутер
         &lt;/p&gt;
@@ -284,6 +1193,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Как я спасал мир&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Квест
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Квест
         &lt;/p&gt;
@@ -306,6 +1220,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Earth Attacks!&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Tower Defence
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Tower Defence
         &lt;/p&gt;
@@ -328,6 +1247,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Action 51&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Аркада
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Аркада
         &lt;/p&gt;
@@ -350,6 +1274,7 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;chinchin&lt;/h3&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанра нет
         &lt;/p&gt;
@@ -372,6 +1297,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;DUMER&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Physics Puzzle Platformer
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Physics Puzzle Platformer
         &lt;/p&gt;
@@ -394,6 +1324,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Сцепление&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Приключение, Квест
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Приключение, Квест
         &lt;/p&gt;
@@ -416,6 +1351,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Танковые Войны&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: защита танка
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: защита танка
         &lt;/p&gt;
@@ -438,6 +1378,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Stay in Void&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Выживание
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Выживание
         &lt;/p&gt;
@@ -460,6 +1405,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;You Were Here&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Puzzle
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Puzzle
         &lt;/p&gt;
@@ -482,6 +1432,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Virion&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Arcade, Survival, Puzzle (DLC)
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Arcade, Survival, Puzzle (DLC)
         &lt;/p&gt;
@@ -504,6 +1459,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Witcherpunk&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Top-down RPG
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Top-down RPG
         &lt;/p&gt;
@@ -526,6 +1486,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Phantomtale&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Фентези, приключение
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Фентези, приключение
         &lt;/p&gt;
@@ -548,6 +1513,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Пинкшейк и цепи дружбы&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: 3D Платформер
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: 3D Платформер
         &lt;/p&gt;
@@ -570,6 +1540,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Dungeon Communism&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Головоломка с элементами диалогов
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Головоломка с элементами диалогов
         &lt;/p&gt;
@@ -592,6 +1567,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Дом Восходящего Солнца&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: 3D изометрический Top-Down Shooter
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: 3D изометрический Top-Down Shooter
         &lt;/p&gt;
@@ -614,6 +1594,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Vital Flaunt&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Адвенчура от первого лица
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Адвенчура от первого лица
         &lt;/p&gt;
@@ -636,6 +1621,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Bad Decisions&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: приключения
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: приключения
         &lt;/p&gt;
@@ -658,6 +1648,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Colchis&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Walking simulator
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Walking simulator
         &lt;/p&gt;
@@ -680,6 +1675,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Делай и точка!&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Текстовый квест
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Текстовый квест
         &lt;/p&gt;
@@ -702,6 +1702,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Courgettes &amp;amp; Seeds&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Платформер-головоломка
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Платформер-головоломка
         &lt;/p&gt;
@@ -724,6 +1729,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Mistlands - The Fall of Iteru&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Стратегия, Выживание
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Стратегия, Выживание
         &lt;/p&gt;
@@ -746,6 +1756,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Neon Death 2&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Нуарный 3д экшен
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Нуарный 3д экшен
         &lt;/p&gt;
@@ -768,6 +1783,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Zombies Unchained&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Аркада
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Аркада
         &lt;/p&gt;
@@ -790,6 +1810,7 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Field of stars&lt;/h3&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанра нет
         &lt;/p&gt;
@@ -812,6 +1833,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;TWG_22_Game_001&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Action
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Action
         &lt;/p&gt;
@@ -834,6 +1860,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Revenge of the shadow&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Хоррор, приключение, детектив...
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Хоррор, приключение, детектив...
         &lt;/p&gt;
@@ -856,6 +1887,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Построить Цепочку&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Action Puzzle
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Action Puzzle
         &lt;/p&gt;
@@ -878,6 +1914,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Chain Dogs&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: beat &amp;#39;em up
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: beat &amp;#39;em up
         &lt;/p&gt;
@@ -900,6 +1941,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;CyberBroom&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Стратегия
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Стратегия
         &lt;/p&gt;
@@ -922,6 +1968,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Mortalbound&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Puzzle Action Platformer
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Puzzle Action Platformer
         &lt;/p&gt;
@@ -944,6 +1995,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Симулятор сварщика&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: симулятор
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: симулятор
         &lt;/p&gt;
@@ -966,6 +2022,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;For The Loop&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Топ-даун шутер
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Топ-даун шутер
         &lt;/p&gt;
@@ -988,6 +2049,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Heatroman&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: adventure
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: adventure
         &lt;/p&gt;
@@ -1010,6 +2076,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Prisoner Escape&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Platformer
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Platformer
         &lt;/p&gt;
@@ -1032,6 +2103,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Наследие&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: платформер, головоломка
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: платформер, головоломка
         &lt;/p&gt;
@@ -1054,6 +2130,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Человек. Вселенная. Пасынок Ада.&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Шутер от первого лица
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Шутер от первого лица
         &lt;/p&gt;
@@ -1076,6 +2157,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Первобит&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Survival
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Survival
         &lt;/p&gt;
@@ -1098,6 +2184,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;neural.chains&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Adventure
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Adventure
         &lt;/p&gt;
@@ -1120,6 +2211,11 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Автоскованность&lt;/h3&gt;
+        
+          &lt;p class=&quot;game__info__tools&quot;&gt;
+            Используемые инструменты: Ггонки
+          &lt;/p&gt;
+        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Ггонки
         &lt;/p&gt;
