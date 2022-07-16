@@ -41,7 +41,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;In Cell&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Головоломка
+            Используемые инструменты: Unity 2020.3.21f
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -68,7 +68,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Cult of Biboran&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Гонка на время
+            Используемые инструменты: rust &amp;amp; bevy
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -95,7 +95,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Nibiru Power&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Adventure
+            Используемые инструменты: Godot, MagicaVoxel, Blender, Cakewalk Bandlab, Kontakt NI, Affinity Designer
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -122,7 +122,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Colchis&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Walking Simulator
+            Используемые инструменты: Unreal Engine 5, Blender, Krita
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -149,7 +149,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Stay In Void&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Выживание
+            Используемые инструменты: Unity
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -176,7 +176,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Earth Attacks!&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: tower defense
+            Используемые инструменты: Unity
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -203,7 +203,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Mortalbound&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Симулятор собирания предметов на уровне
+            Используемые инструменты: Unity
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -230,7 +230,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Action 51&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Аркада
+            Используемые инструменты: cc65, Shiru&amp;#39;s neslib, NES Screen Tool, FamiTracker, FamiTone2
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -257,7 +257,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Courgettes &amp;amp; Seeds&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Платформер-головоломка
+            Используемые инструменты: Godot
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -284,7 +284,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Catenarian Buddhist Successor&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Песочница/Симулятор дальнобойщика
+            Используемые инструменты: Unity
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -311,7 +311,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Revenge of the shadow&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Хоррор
+            Используемые инструменты: Unreal Engine 4
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -338,7 +338,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;DUMER&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Physics Puzzle Platformer
+            Используемые инструменты: Godot, Aseprite, LDtk, LMMS
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -365,7 +365,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Жизнь Афродия&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Приключения
+            Используемые инструменты: panda3d(python); blender;
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -392,7 +392,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;For The Loop&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Шутер
+            Используемые инструменты: Unity, Blender, Maya, Substance painter/designer
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -419,7 +419,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;СКОВАННЫЕ ОДНИМ ЦЕПНЕМ&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Хуйня
+            Используемые инструменты: Unity
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -446,7 +446,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Virion&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Arcade, Puzzle, Survival
+            Используемые инструменты: Unity, Pixaki, Reaper
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -473,7 +473,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Zombies Unchained&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Аркада
+            Используемые инструменты: Unity, Aseprite, C#
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -500,7 +500,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Pinkshake и цепи дружбы&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: 3D платформер
+            Используемые инструменты: Unity
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -527,7 +527,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Vital Flaunt&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Адвенчура от первого лица
+            Используемые инструменты: Notepad++, Audacity, Paint.NET, EFPSE PRO v109
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -554,7 +554,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;chinchin&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: casual
+            Используемые инструменты: unity, inkscape
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -581,7 +581,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Сцепление&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Жанр: Приключение, Квест, CO-OP
+            Используемые инструменты: Unity 3D, Blender, GIMP, Substance Painter. Были использованы звуки и текстуры с типом лицензии СС0
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -608,7 +608,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Человек. Вселенная. Пасынок Ада.&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Шутер от первого лица
+            Используемые инструменты: Unity, GIMP, Blender
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -635,7 +635,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Наследие&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: платформер, головоломка
+            Используемые инструменты: Свой js движок на канвасе, тайлед, электрон
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -662,7 +662,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Dungeon Communism&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Пошаговая головоломка в жанре рпг с диалогами
+            Используемые инструменты: Unity Photoshop
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -689,7 +689,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Дом Восходящего Солнца&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: 3D изометрический Top-Down Shooter
+            Используемые инструменты: Unity, Blender, ArtFree
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -715,10 +715,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;BIOCHAIN&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Action Puzzle
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Action Puzzle
         &lt;/p&gt;
@@ -743,7 +739,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Field of stars&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Стратегия
+            Используемые инструменты: Unity
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -770,7 +766,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;You Were Here&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Головоломка
+            Используемые инструменты: Unity, Blender, Audacity
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -796,10 +792,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Neon Death 2&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Киберпанк 2078
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Киберпанк 2078
         &lt;/p&gt;
@@ -824,7 +816,7 @@
         &lt;h3 class=&quot;game__info__title&quot;&gt;Гульмэн-Наследие или Sex with Death&lt;/h3&gt;
         
           &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Выживач-рогалик
+            Используемые инструменты: Unity, Rider, бесплатные ассеты из  Unity asset store и itch, blender, gimp
           &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
@@ -849,10 +841,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Автоскованность&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Racing
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Racing
@@ -924,10 +912,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Me&amp;amp;MyDog&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: bullethell
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: bullethell
         &lt;/p&gt;
@@ -950,10 +934,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;In Cell&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Головоломка
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Головоломка
@@ -978,10 +958,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;CultOfBiboran&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Falling Simulator / Top-Down Shooter
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Falling Simulator / Top-Down Shooter
         &lt;/p&gt;
@@ -1004,10 +980,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Вторжение Нибиру &lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Adventure
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Adventure
@@ -1032,10 +1004,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Лицедей&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Хоррор
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Хоррор
         &lt;/p&gt;
@@ -1058,10 +1026,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Гульмэн-Наследие или Sex with Death&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Выживач-рогалик
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Выживач-рогалик
@@ -1086,10 +1050,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Сatenarian Buddhist Successor&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Физическая головоломка/Racing
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Физическая головоломка/Racing
         &lt;/p&gt;
@@ -1112,10 +1072,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Поридж Редемпшн&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Приключения
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Приключения
@@ -1140,10 +1096,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Little Keeper&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: кликер
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: кликер
         &lt;/p&gt;
@@ -1166,10 +1118,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;PostHuman&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: 3D,  головоломка, платформер, шутер
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: 3D,  головоломка, платформер, шутер
@@ -1194,10 +1142,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Как я спасал мир&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Квест
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Квест
         &lt;/p&gt;
@@ -1221,10 +1165,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Earth Attacks!&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Tower Defence
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Tower Defence
         &lt;/p&gt;
@@ -1247,10 +1187,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Action 51&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Аркада
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Аркада
@@ -1298,10 +1234,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;DUMER&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Physics Puzzle Platformer
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Physics Puzzle Platformer
         &lt;/p&gt;
@@ -1324,10 +1256,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Сцепление&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Приключение, Квест
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Приключение, Квест
@@ -1352,10 +1280,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Танковые Войны&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: защита танка
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: защита танка
         &lt;/p&gt;
@@ -1378,10 +1302,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Stay in Void&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Выживание
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Выживание
@@ -1406,10 +1326,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;You Were Here&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Puzzle
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Puzzle
         &lt;/p&gt;
@@ -1432,10 +1348,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Virion&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Arcade, Survival, Puzzle (DLC)
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Arcade, Survival, Puzzle (DLC)
@@ -1460,10 +1372,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Witcherpunk&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Top-down RPG
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Top-down RPG
         &lt;/p&gt;
@@ -1486,10 +1394,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Phantomtale&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Фентези, приключение
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Фентези, приключение
@@ -1514,10 +1418,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Пинкшейк и цепи дружбы&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: 3D Платформер
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: 3D Платформер
         &lt;/p&gt;
@@ -1540,10 +1440,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Dungeon Communism&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Головоломка с элементами диалогов
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Головоломка с элементами диалогов
@@ -1568,10 +1464,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Дом Восходящего Солнца&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: 3D изометрический Top-Down Shooter
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: 3D изометрический Top-Down Shooter
         &lt;/p&gt;
@@ -1594,10 +1486,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Vital Flaunt&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Адвенчура от первого лица
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Адвенчура от первого лица
@@ -1622,10 +1510,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Bad Decisions&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: приключения
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: приключения
         &lt;/p&gt;
@@ -1648,10 +1532,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Colchis&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Walking simulator
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Walking simulator
@@ -1676,10 +1556,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Делай и точка!&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Текстовый квест
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Текстовый квест
         &lt;/p&gt;
@@ -1702,10 +1578,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Courgettes &amp;amp; Seeds&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Платформер-головоломка
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Платформер-головоломка
@@ -1730,10 +1602,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Mistlands - The Fall of Iteru&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Стратегия, Выживание
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Стратегия, Выживание
         &lt;/p&gt;
@@ -1757,10 +1625,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Neon Death 2&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Нуарный 3д экшен
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Нуарный 3д экшен
         &lt;/p&gt;
@@ -1783,10 +1647,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Zombies Unchained&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Аркада
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Аркада
@@ -1834,10 +1694,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;TWG_22_Game_001&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Action
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Action
         &lt;/p&gt;
@@ -1860,10 +1716,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Revenge of the shadow&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Хоррор, приключение, детектив...
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Хоррор, приключение, детектив...
@@ -1888,10 +1740,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Построить Цепочку&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Action Puzzle
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Action Puzzle
         &lt;/p&gt;
@@ -1914,10 +1762,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Chain Dogs&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: beat &amp;#39;em up
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: beat &amp;#39;em up
@@ -1942,10 +1786,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;CyberBroom&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Стратегия
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Стратегия
         &lt;/p&gt;
@@ -1968,10 +1808,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Mortalbound&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Puzzle Action Platformer
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Puzzle Action Platformer
@@ -1996,10 +1832,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Симулятор сварщика&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: симулятор
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: симулятор
         &lt;/p&gt;
@@ -2022,10 +1854,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;For The Loop&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Топ-даун шутер
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Топ-даун шутер
@@ -2050,10 +1878,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Heatroman&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: adventure
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: adventure
         &lt;/p&gt;
@@ -2076,10 +1900,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Prisoner Escape&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Platformer
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Platformer
@@ -2104,10 +1924,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Наследие&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: платформер, головоломка
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: платформер, головоломка
         &lt;/p&gt;
@@ -2130,10 +1946,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Человек. Вселенная. Пасынок Ада.&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Шутер от первого лица
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Шутер от первого лица
@@ -2158,10 +1970,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Первобит&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Survival
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Survival
         &lt;/p&gt;
@@ -2185,10 +1993,6 @@
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;neural.chains&lt;/h3&gt;
         
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Adventure
-          &lt;/p&gt;
-        
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Adventure
         &lt;/p&gt;
@@ -2211,10 +2015,6 @@
       &lt;/picture&gt;
       &lt;div class=&quot;game__info&quot;&gt;
         &lt;h3 class=&quot;game__info__title&quot;&gt;Автоскованность&lt;/h3&gt;
-        
-          &lt;p class=&quot;game__info__tools&quot;&gt;
-            Используемые инструменты: Ггонки
-          &lt;/p&gt;
         
         &lt;p class=&quot;game__info__genre&quot;&gt;
           Жанр: Ггонки
