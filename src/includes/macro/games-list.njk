@@ -26,9 +26,11 @@
         <p class="game__info__description">
           {% if gameInfo.description %}{{ gameInfo.description }}{% else %}Описания нет{% endif %}
         </p>
-        {# <a class="game__info__link" href="{{ gameInfo.archive }}" target="_blank">
+        {% if gameInfo.archive %}
+        <a class="game__info__link" href="{{ gameInfo.archive }}" target="_blank">
           <span>скачать</span>
-        </a> #}
+        </a>
+        {% endif %}
       </div>
     </div>
     {% endfor %}
