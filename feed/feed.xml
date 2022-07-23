@@ -5,12 +5,108 @@
 	
 	<link href="https://22.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://22.twoweeks.ru"/>
-	<updated>2022-07-17T00:00:00Z</updated>
+	<updated>2022-07-23T00:00:00Z</updated>
 	<id>https://22.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Итоги конкурса</title>
+		<link href="https://22.twoweeks.ru/posts/10-results/"/>
+		<updated>2022-07-23T00:00:00Z</updated>
+		<id>https://22.twoweeks.ru/posts/10-results/</id>
+		<content type="html">
+&lt;div style=&quot;margin-top: 1em; text-align:center;&quot;&gt;
+  &lt;div class=&quot;place&quot;&gt;
+    &lt;picture class=&quot;place__image&quot;&gt;
+      &lt;img src=&quot;https://22.twoweeks.ru/posts/10-results/images/nibiru.jpg&quot; alt=&quot;Nibiru Power screenshot&quot; /&gt;
+    &lt;/picture&gt;
+
+    &lt;div class=&quot;place__text&quot;&gt;
+      &lt;span&gt;1 место&lt;/span&gt;
+
+      &lt;span style=&quot;font-size: 5em;&quot;&gt;Nibiru Power&lt;/span&gt;
+
+      &lt;span&gt;16 600 рублей&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;place&quot;&gt;
+    &lt;picture class=&quot;place__image&quot;&gt;
+      &lt;img src=&quot;https://22.twoweeks.ru/posts/10-results/images/nasledie.jpg&quot; alt=&quot;Nasledie screenshot&quot; /&gt;
+    &lt;/picture&gt;
+
+    &lt;div class=&quot;place__text&quot;&gt;
+      &lt;span&gt;2 место&lt;/span&gt;
+
+      &lt;span style=&quot;font-size: 5em;&quot;&gt;Наследие&lt;/span&gt;
+
+      &lt;span&gt;9 960 рублей&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;place&quot;&gt;
+    &lt;picture class=&quot;place__image&quot;&gt;
+      &lt;img src=&quot;https://22.twoweeks.ru/posts/10-results/images/incell.jpg&quot; alt=&quot;In Cell screenshot&quot; /&gt;
+    &lt;/picture&gt;
+
+    &lt;div class=&quot;place__text&quot;&gt;
+      &lt;span&gt;3 место&lt;/span&gt;
+
+      &lt;span style=&quot;font-size: 5em;&quot;&gt;In Cell&lt;/span&gt;
+
+      &lt;span&gt;6 640 рублей&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr style=&quot;margin: 1em;&quot; /&gt;
+
+&lt;div style=&quot;margin-top: 1em&quot;&gt;
+  &lt;p&gt;Ачивки:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;Тема - мемы&lt;/b&gt; - Catenarian Buddhist Successor&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Последняя клетка на чужой земле&lt;/b&gt; - Stay In Void&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Машинное обучение&lt;/b&gt; - Человек. Вселенная. Пасынок Ада&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Do you guys not have phones?&lt;/b&gt; - Zombies Unchained&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Импортозамещение&lt;/b&gt; - &lt;i&gt;никто не стал реализовывать ачивку&lt;/i&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Все вышеуказанные игры получают приз в виде стим-ключей на игры Archtower и Blaster Cop.&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;И в коде есть красота&lt;/b&gt; - Человек. Вселенная. Пасынок Ада. Приз - 3 000 ₽&lt;/li&gt;
+  &lt;/ul&gt;
+
+ &lt;p&gt;Специальные призы от Уровня /gd/:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;Лучшая игра второго плана&lt;/b&gt; - Dungeon Communism. Приз - 3 000 ₽&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Приз от рандомной собаки&lt;/b&gt; - chinchin. Приз - 777 ₽&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr style=&quot;margin: 1em;&quot; /&gt;
+
+&lt;div style=&quot;margin-top: 1em&quot;&gt;
+  &lt;p&gt;Победителям просьба связаться с организатором конкурса для получения призов.&lt;/p&gt;
+
+  &lt;p&gt;Почта организатора: &lt;a href=&quot;mailto:op@gdjams.ru&quot;&gt;op@gdjams.ru&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Все оценки к играм и фидбек можно найти на сайте &lt;a href=&quot;https://gdjams.ru/twg22-votes/&quot;&gt;gdjams.ru/twg22-votes/&lt;/a&gt;. Там же доступны и исходные данные, использованные для расчёта итоговых оценок.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr style=&quot;margin: 1em;&quot; /&gt;
+
+&lt;div style=&quot;margin-top: 1em&quot;&gt;
+  &lt;p&gt;Следующий&lt;span style=&quot;font-size: 0;&quot;&gt; легитимный&lt;/span&gt; конкурс будет зимой 2022-2023 года. Чтобы его не пропустить, следите за новостями в &lt;a href=&quot;https://2ch.hk/gd/&quot;&gt;/gd/&lt;/a&gt;, а также на нашем &lt;a href=&quot;https://discord.gg/FNFnJVCZA9&quot;&gt;сервере в Discord&lt;/a&gt; и &lt;a href=&quot;https://t.me/gdchat&quot;&gt;чате в Telegram&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Всем спасибо за участие!&lt;/p&gt;
+&lt;/div&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Финальные версии</title>
@@ -51,9 +147,9 @@
           Тоталитарная демократическая утопия будущего. Политическая верхушка пошла на эксперимент - передачу решений по жизненно важным вопросам государства на рядовых граждан. В условиях разгорающегося конфликта между соседними государствами, а также появления революционного движения внутри Страны, вам предстоит ежедневно решать - что действительно важнее для вас и ваших жителей.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/rO_Yluvfv_GhEg&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/rO_Yluvfv_GhEg&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -80,9 +176,9 @@
           Вы, Александр Гаврилович Абдулов, советский актер и алкоголик, нарушили все заветы и были выгнаны с небес за то что попали во все круги ада и устроили там пьяные дебоши. Основано на Священном Биборане Сделано за неделю на Bevy &amp;amp; Rust. Исходники в комплекте. Вне конкурса, так как священный биборан отрицает деньги, а признает только сигареты в качестве денег.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/vfWMWfXgd6t6VQ&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/vfWMWfXgd6t6VQ&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -109,9 +205,9 @@
           Рептилоиды с планеты Нибиру атаковали королевство мемов, единственного выжившего волшебника посадили в клетку. Оживший призрак вселяется в кандалы узника. чтобы помочь ему обрести новые способности и победить врага.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/SBzeK0zXIA8ERw&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/SBzeK0zXIA8ERw&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -138,9 +234,9 @@
           История о том, как исследователь на космической станции “Колхида”, занимающийся изучением Ио на протяжении месяца, столкнулся с трудностями.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/VTa1Hghu-TqWdw&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/VTa1Hghu-TqWdw&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -167,9 +263,9 @@
           Вы оказываетесь одни с робопсом на чужой планете. Ваша задача выжить.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/YYCWCuNeHBy4ag&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/YYCWCuNeHBy4ag&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -196,9 +292,9 @@
           Увидьте своими глазами историю о жадности и тщеславии! Игроку предстоит защищать город от наступления людей строя сооружения используюя силу земли.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/ckEyAL-2ZvtjmA&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/ckEyAL-2ZvtjmA&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -225,9 +321,9 @@
           Никто не знает, как и когда началась эта война. Стерты с лица земли были все: люди, животные, растительность... И не осталось никого, кроме загадочным образом соединенных вместе двух братьев. Один - сильный но не ловкий, другой - ловкий, но не сильный. Вместе они, помогая друг другу... достигают цели.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/a2vo_Ia5kzjY7w&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/a2vo_Ia5kzjY7w&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -254,9 +350,9 @@
           Два инопланетянина сбегают с базы на чужой для них Земле. Им приходится держаться вместе, так как если они отойдут друг от друга слишком далеко, сработает детонатор, и оба взорвутся.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/O1Lm-CmSagDrXA&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/O1Lm-CmSagDrXA&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -283,9 +379,9 @@
           Собирайте монеты, чтобы освободить узников, избегая ловушек и насекомых
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/r_Kbdkh-pYnKog&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/r_Kbdkh-pYnKog&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -312,9 +408,9 @@
           Главная героиня игры устроилась работать менеджером по логистике в недавно открывшееся предприятие общепита. Сегодня её не первый день на этой ответственной должности, но сможет ли она снова совладать с цепью свалившихся на неё заданий?
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/pxdclBwvhQZ4CA&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/pxdclBwvhQZ4CA&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -341,9 +437,9 @@
           Игра где оказался в подвале и где злобные тени вселились в куклы (манекены) и ты должен выбраться живым из него!!! (По возможности не подходите к призраку кошке, она даст вам совет но займет экран этим же советом)!!!
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/xRTR7sBNtHQStA&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/xRTR7sBNtHQStA&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -370,9 +466,9 @@
           Одна цепь: два черепа.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/6wDnXVmPt26KcQ&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/6wDnXVmPt26KcQ&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -399,9 +495,9 @@
           А что если.. если ты останешься последним человеком на земле? Что ты будешь делать?
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/YesanBUDF5hXCQ&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/YesanBUDF5hXCQ&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -428,9 +524,9 @@
           Возьмите под свое руководство Пупу для уничтожения полчищ врагов и боссов. Контролируйте подключения к генераторам для нанесения сокрушительного урона. Игра и все ассеты (кроме звуков) разработаны в рамках TWG 2022 командой Wintervoice. Рекомендуем проходить в режиме истории (кнопка Start), но если не выйдет - посмотрите весь контент по кнопке Levels.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/xNCLHaMTw4gC1A&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/xNCLHaMTw4gC1A&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -457,9 +553,9 @@
           (Игра недоделана, можно не качать) Вы - свиной цепень! Паразитирующий ленточный червь, живущий в кишечнике своего носителя - человека. Вашему носителю приходится стать подопытным в эксперименте по созданию сверхорганизма с единой пищеварительной системой &amp;quot;Человеческая многоножка&amp;quot;. Но вам удаётся захватить контроль над многоножкой.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/3dV_48AzhZAs0Q&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/3dV_48AzhZAs0Q&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -486,9 +582,9 @@
           Вам доводилось убегать от макрофагов? Клетки. Вас держат в клетке? Клетки. Когда вы бездействуете, вас съедают? Клетки. Связаны. Что вы чувствуете, находя клетку, которую искали? Связаны. Вас учили переставлять  белки в мембране? Связаны. Вы желаете остановить чье-нибудь сердце? Связаны. Вы убили последнего человека на Земле? Связаны цепью ДНК. Повторите три раза. ДНК-ДНК-ДНК.Можете пройти в игру.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/_oqQG7xul6FYKA&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/_oqQG7xul6FYKA&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -515,9 +611,9 @@
           Ты - последний выживший человек в тюрьме во время зомби апокалипсиса. Разрывай цепи и загони как можно больше зомби в клетку! В игре присутсвует ♂right version♂! Платформы: ПК и Андроид
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/NA_UIhZyyzbvOw&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/NA_UIhZyyzbvOw&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -544,9 +640,9 @@
           Девочка Пинкшейк - ПОСЛЕДНИЙ ЧЕЛОВЕК НА ЗЕМЛЕ. Она живёт со своим псом Пёсиком, но его вдруг крадёт злой Демон Скелетон и увозит в неизестном направлении. Теперь Пинкшейк нужно спасти своего Пёсика, встретить на пути друзей с ОДНОЙ ЦЕЛЬЮ. Создавая ЦЕПОЧКИ из прыжков, они найдут Пёсика на ЧУЖОЙ ЗЕМЛЕ и освободят его из КЛЕТКИ.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/FsJnRSp1RBwtpQ&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/FsJnRSp1RBwtpQ&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -573,9 +669,9 @@
           Описание: Вдали от цивилизации уже много лет живёт в одиночестве в своей хижине один необычный человек. И так бы он и продолжал жить в спокойствии, пока одной ночью его не посетил незванный гость...
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/w5umEPIj9Q1PYw&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/w5umEPIj9Q1PYw&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -602,9 +698,9 @@
           СОБЕРИ ИХ ВСЕ
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/4B3FexX9jDzSSA&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/4B3FexX9jDzSSA&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -631,9 +727,9 @@
           Двое незнакомцев, находятся в плену у некоторой группы людей, по разным причинам.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/2YmRVKEqOxiv-A&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/2YmRVKEqOxiv-A&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -660,9 +756,9 @@
           Вы сидите в камере. Вы видите знакомое лицо. Вам нужно отсюда выбираться. Шутер от первого лица, где один выстрел равен одной смерти.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/LdlfpmtiVvfDvw&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/LdlfpmtiVvfDvw&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -689,9 +785,9 @@
           Сюжет повествует о нелегких отношениях сына с телом его отца.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/QetyUApyB5gZzw&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/QetyUApyB5gZzw&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -718,9 +814,9 @@
           Семеро случайных героев оказались в клетке, скованные вместе одной цепью. чтобы выбраться, им предстоит подняться на 7 уровней, решая головоломки и побеждая врагов на своём пути.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/IaEbszG_4-jxqA&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/IaEbszG_4-jxqA&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -747,9 +843,9 @@
           В этой игре вам предстоит стать последним солдатом космической федерации на далёкой и враждебной планете, и не дать врагу захватить научную станцию - Восходящее Солнце.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/RvKihF6S6-Ztrg&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/RvKihF6S6-Ztrg&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -772,9 +868,9 @@
           Управляйте тенью чтобы найти выход на уровне.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/BodNjCrQHUl3SQ&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/BodNjCrQHUl3SQ&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -801,9 +897,9 @@
           Вы - соединитель. Ваша задача - с помощью торговли соединить разрозненные планеты далекой системы. Идея в том, чтобы выстроить надежные цепочки торговли для максимально эффективной реализации товара и улучшения отношений планет.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/I6ILyIDqgwfWPQ&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/I6ILyIDqgwfWPQ&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -830,9 +926,9 @@
           Я очнулся и не понимал, где нахожусь. Лучше бы - и не понял.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/gTubgn8uWuxbFw&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/gTubgn8uWuxbFw&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -855,9 +951,9 @@
           Описания нет
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/uvzwQYUyqJRBrg&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/uvzwQYUyqJRBrg&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -884,9 +980,9 @@
           Постапокалипсис. Все умерли. Остался только один герой, последний человек который сможет представлять человечество на смертном одре, достаточно сексуальный что бы заново заселить планету, он нашёл уникальный способ спасения человечества. И мести. Всё что осталось на планете это жалкое отребье, способное скорее принести только смерть случайному встречному, а также хитрецы подлецы.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/bdof4Y-jLTsntw&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/bdof4Y-jLTsntw&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -909,9 +1005,9 @@
           На земле остались лишь бесплилотные автомобили. И ты. Поймав двух из них и сковав цепью, чтоб не разбежались, ты участвуешь в бесконечной гонке.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/1wLaXDKZlsL_kg&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/1wLaXDKZlsL_kg&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
@@ -938,9 +1034,9 @@
           В невиданном комплюктерном первобитном мире цифровые организмы столкнулись в жестокой борьбе за выживание.
         &lt;/p&gt;
         
-        &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/FpHoT2Q1zfs5nQ&quot; target=&quot;_blank&quot;&gt;
-          &lt;span&gt;скачать&lt;/span&gt;
-        &lt;/a&gt;
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/FpHoT2Q1zfs5nQ&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
         
       &lt;/div&gt;
     &lt;/div&gt;
