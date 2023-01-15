@@ -10,6 +10,12 @@
     "url": "https://22.twoweeks.ru"
   },
   "items": [{
+      "id": "https://22.twoweeks.ru/posts/11-next-twg/",
+      "url": "https://22.twoweeks.ru/posts/11-next-twg/",
+      "title": "Анонс Two Weeks Game 23",
+      "content_html": "<p>Старт конкурса - <strong>23 января 2023 года</strong></p>\n<p>Стартовый призовой фонд - <strong>20000 рублей</strong></p>\n<p>Сайт конкурса (будущий) - <a href=\"https://22.twoweeks.ru/\">22.twoweeks.ru</a></p>\n<p>Обсуждение конкурса - <a href=\"https://2ch.hk/gd/res/850773.html\">тред в гд</a>, <a href=\"https://discord.com/invite/FNFnJVCZA9\">дискорд</a>, <a href=\"https://t.me/gdchat\">телеграм</a></p>\n",
+      "date_published": "2023-01-15T00:00:00Z"
+    },{
       "id": "https://22.twoweeks.ru/posts/10-results/",
       "url": "https://22.twoweeks.ru/posts/10-results/",
       "title": "Итоги конкурса",
