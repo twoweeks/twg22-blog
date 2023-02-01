@@ -110,6 +110,10 @@ body {
   border-top: 1px dashed var(--lightgray);
 }
 
+.footer__twglink:not(:hover) {
+  text-decoration: none;
+}
+
 .sidebar,
 .footer {
   text-align: center;
