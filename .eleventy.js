@@ -13,7 +13,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginNavigation);
 
-  eleventyConfig.addPlugin(externalLinks);
+  eleventyConfig.addPlugin(externalLinks, {
+    rel: ['noreferrer', 'noopener', 'external'],
+    excludedDomains: ['twoweeksgame.ru']
+  });
 
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
